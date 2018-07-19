@@ -23,4 +23,21 @@
 
 ## Projects
 
+- [strategy-madlibs](https://github.com/wwest4/strategy-madlibs)
 - [swardley-script](https://github.com/cioportfolio/swardley-script)
+
+
+
+## Talks
+
+- [Mapping Talks Playlist](https://www.youtube.com/channel/UCZ9-K9BLFozmmvmWzjyjkow/playlists)
+
+
+## Tools
+
+- [Atlas](http://www.wardleymaps.com/tool.html)
+- [Doctrine Grid Tool](http://justin.stach.uk/doctrine_grid_tool)
+- [Evolutionary Characteristics Interactive Cheat Sheet](https://evolve.hiredthought.com)
+- [Mapping Guru](http://mapping.guru/)
+- [RealtimeBoard](https://realtimeboard.com/blog/wardley-maps-whiteboard-canvas)
+- [Wardley Map Chat](http://wardleymapchat.com)
